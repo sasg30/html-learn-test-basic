@@ -1,0 +1,11 @@
+p {
+  color: darkgreen;
+}
+
+div p#done {
+  color: white;
+}
+
+button {
+  background: darkgreen;
+}
